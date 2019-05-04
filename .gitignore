@@ -1,0 +1,12 @@
+app/tmp/sessions/*
+app/tmp/logs/*
+app/tmp/cache/*
+app/Config/database.php
+app/webroot/upload/*
+app/Config/email.php
+node_modules/*
+vendors/*
+nbproject/*
+*.sublime*
+app/webroot/tmp
+app/webroot/html/node_modules/*

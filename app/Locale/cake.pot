@@ -1,0 +1,83 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: View/Helper/FormHelper.php:324
+msgid "New %s"
+msgstr ""
+
+#: View/Helper/FormHelper.php:328
+msgid "Edit %s"
+msgstr ""
+
+#: View/Helper/FormHelper.php:856
+msgid "Error in field %s"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1142
+msgid "empty"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1425
+msgid "January"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1426
+msgid "February"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1427
+msgid "March"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1428
+msgid "April"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1429
+msgid "May"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1430
+msgid "June"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1431
+msgid "July"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1432
+msgid "August"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1433
+msgid "September"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1434
+msgid "October"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1435
+msgid "November"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1436
+msgid "December"
+msgstr ""
+
+#: View/Helper/FormHelper.php:2355
+msgid "Submit"
+msgstr ""
+

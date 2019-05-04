@@ -1,0 +1,89 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgid "Nét đặc sắc"
+msgstr ""
+
+msgid "Giới thiệu"
+msgstr ""
+
+msgid "Thực đơn"
+msgstr ""
+
+msgid "Khuyến mãi"
+msgstr ""
+
+msgid "Tin tức"
+msgstr ""
+
+msgid "Tuyển dụng"
+msgstr ""
+
+msgid "Thành viên VIP"
+msgstr ""
+
+msgid "Ý kiến khách hàng"
+msgstr ""
+
+msgid "Liên hệ"
+msgstr ""
+
+msgid "Tâm Thức"
+msgstr ""
+
+msgid "Nét đặc sắc hương vị lẩu truyền thống Nhật"
+msgstr ""
+
+msgid "Xem thêm"
+msgstr ""
+
+msgid "Thành viên"
+msgstr ""
+
+msgid "Địa chỉ và số liên lạc của 2 nhà hàng"
+msgstr ""
+
+msgid "96 Nguyễn Thị Minh Khai, Phường 6, Quận 3, Tp. Hồ Chi Minh"
+msgstr ""
+
+msgid "204 - 206 Trần Hưng Đạo, Phường Nguyễn Cư Trinh, Quận 1, Tp. Hồ Chi Minh"
+msgstr ""
+
+msgid "Cách thưởng thức %s"
+msgstr ""
+
+msgid "Sự hòa quyện hoàn hảo của nước chấm"
+msgstr ""
+
+msgid "Cuối cùng hãy thưởng thức %s thật ngon miệng !"
+msgstr ""
+
+msgid "Chính sách thành viên VIP"
+msgstr ""
+
+msgid "Xem điểm tích lũy"
+msgstr ""
+
+msgid "Hãy điền thông tin để xem điểm tích lũy"
+msgstr ""
+
+msgid "Tên"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Điện thoại"
+msgstr ""

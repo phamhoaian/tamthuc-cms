@@ -1,0 +1,217 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-02-26 16:38+0700\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.4\n"
+
+msgid "Nét đặc sắc"
+msgstr "Features"
+
+msgid "Giới thiệu"
+msgstr "Introduction"
+
+msgid "Thực đơn"
+msgstr "Menu"
+
+msgid "Khuyến mãi"
+msgstr "Promotion"
+
+msgid "Tin tức"
+msgstr "News"
+
+msgid "Tuyển dụng"
+msgstr "Recruitment"
+
+msgid "Thành viên VIP"
+msgstr "VIP member"
+
+msgid "Ý kiến khách hàng"
+msgstr "Customer feedback"
+
+msgid "Liên hệ"
+msgstr "Contact"
+
+msgid "Tâm Thức"
+msgstr "Tam Thuc"
+
+msgid "Nét đặc sắc hương vị lẩu truyền thống Nhật"
+msgstr "Japanese traditional hot pot flavor"
+
+msgid "Xem thêm"
+msgstr "View more"
+
+msgid "Thành viên"
+msgstr "Member"
+
+msgid "Địa chỉ và số liên lạc của 2 nhà hàng"
+msgstr "Address and contact number of 2 restaurants"
+
+msgid "96 Nguyễn Thị Minh Khai, Phường 6, Quận 3, Tp. Hồ Chi Minh"
+msgstr "96 Nguyen Thi Minh Khai Street, Ward 6, District 3, Ho Chi Minh City"
+
+msgid "204 - 206 Trần Hưng Đạo, Phường Nguyễn Cư Trinh, Quận 1, Tp. Hồ Chi Minh"
+msgstr "204 - 206 Tran Hung Dao Street, Nguyen Cu Trinh Ward, District 1, Ho Chi Minh City"
+
+msgid "Cách thưởng thức %s"
+msgstr "How to enjoy %s"
+
+msgid "Sự hòa quyện hoàn hảo của nước chấm"
+msgstr "The perfect blend of the sauce"
+
+msgid "Cuối cùng hãy thưởng thức %s thật ngon miệng !"
+msgstr "Finally enjoy the delicious %s!"
+
+msgid "Chính sách thành viên VIP"
+msgstr "VIP member policy"
+
+msgid "Xem điểm tích lũy"
+msgstr "View points accumulated members"
+
+msgid "Hãy điền thông tin để xem điểm tích lũy"
+msgstr "Please fill in the information to see the points accumulated"
+
+msgid "Tên"
+msgstr "Name"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Điện thoại"
+msgstr "Phone"
+
+msgid "Không có tin tức nào!"
+msgstr "There is no news!"
+
+msgid "Tên không được để trống"
+msgstr "Name can not be empty"
+
+msgid "Họ tên không được để trống"
+msgstr "Name can not be empty"
+
+msgid "Số kí tự tối đa là %d"
+msgstr "The maximum number of characters is %d"
+
+msgid "Email không được để trống"
+msgstr "Email can not be empty"
+
+msgid "Vui lòng nhập địa chỉ email chính xác"
+msgstr "Please enter the correct email address"
+
+msgid "Số điện thoại không được để trống"
+msgstr "Phone can not be empty"
+
+msgid "Vui lòng chỉ nhập số"
+msgstr "Please enter only the number"
+
+msgid "Cảm ơn bạn đã liên hệ với Mo Mo Paradise, chúng tôi sẽ gửi email đến bạn trong thời gian sớm nhất. Xin cảm ơn"
+msgstr "Thank you for contacting Mo Mo Paradise, we will send you an email as soon as possible. Thank you"
+
+msgid "Mo Mo Paradise xin cảm ơn bạn đã tham gia chương trình trải nghiệm. Chúng tôi sẽ gửi mã code đến bạn. Xin cảm ơn!"
+msgstr "Mo Mo Paradise would like to thank you for participating in the experience program. We will send the code to you. Thank you!"
+
+msgid "Cảm ơn bạn đã đặt bàn. Mo Mo Paradise sẽ liên hệ với bạn để xác nhận thông tin đặt bàn. Nếu bạn cần hỗ trợ gấp, xin vui lòng liên hệ trực tiếp hotline: %s để được phục vụ tốt nhất. Xin cảm ơn"
+msgstr "Thank you for booking. Mo Mo Paradise will contact you to confirm booking information. If you need urgent support, please contact hotline directly: %s for best service. Thank you"
+
+msgid "Mo Mo Paradise xin lỗi quý khách, số điện thoại / email này đã đăng ký trải nghiệm rồi. Xin cảm ơn"
+msgstr "Mo Mo Paradise apologizes, this email / email is already registered for the experience. Thank you"
+
+msgid "Cảm ơn bạn đã liên hệ với Mo Mo Paradise, chúng tôi sẽ sớm phản hồi với bạn. Nếu bạn cần hỗ trợ gấp, xin vui lòng liên hệ trực tiếp hotline: %s để được phục vụ tốt nhất. Xin cảm ơn"
+msgstr "Thank you for contacting Mo Mo Paradise, we will get back to you as soon as possible. If you need urgent support, please contact hotline directly: %s for best service. Thank you"
+
+msgid "Liên hệ đối tác"
+msgstr "Contact"
+
+msgid "Đặt bàn"
+msgstr "Booking"
+
+msgid "Hãy để lại thông tin của bạn và thông tin mà bạn cần hỗ trợ, Mo Mo sẽ liên hệ lại để chăm sóc bạn!"
+msgstr "Please leave your information and the information you need to support, Mo Mo will contact you again to take care of you!"
+
+msgid "Họ tên"
+msgstr "Name"
+
+msgid "Chủ đề"
+msgstr "Subject"
+
+msgid "Nội dung"
+msgstr "Body"
+
+msgid "Chủ đề không được để trống"
+msgstr "Subject can not be empty"
+
+msgid "Nội dung không được để trống"
+msgstr "Body can not be empty"
+
+msgid "Thông tin khách hàng"
+msgstr "Customer information"
+
+msgid "Vui lòng đặt bàn trước 1 ngày hoặc gọi Hotline %s để đặt bàn"
+msgstr "Please book before a day or call hotline %s"
+
+msgid "Vui lòng chọn 1 nhà hàng"
+msgstr "Please select a restaurant"
+
+msgid "Vui lòng chọn ngày"
+msgstr "Please select a day"
+
+msgid "Vui lòng chọn giờ"
+msgstr "Please select an hour"
+
+msgid "Vui lòng chọn phút"
+msgstr "Please select a minute"
+
+msgid "Ngày đặt bàn"
+msgstr "Table reservation"
+
+msgid "Số lượng khách"
+msgstr "Number of guests"
+
+msgid "Mô tả chi tiết yêu cầu của bạn"
+msgstr "Describe your requirements in detail"
+
+msgid "Đặt bàn"
+msgstr "Booking"
+
+msgid "giờ"
+msgstr "hours"
+
+msgid "phút"
+msgstr "minutes"
+
+msgid "Số lượng khách không được để trống"
+msgstr "Number of guests must not be empty"
+
+msgid "Mo Mo Paradise có mặt tại hơn 9 quốc gia trên thế giới với hơn 100 nhà hàng."
+msgstr "Mo Mo Paradise is available in more than 9 countries around the world with more than 100 restaurants."
+
+msgid "Nguyên liệu lẩu truyền thống nhập khẩu 100% từ Nhật Bản."
+msgstr "Traditional hot pot materials imported from Japan."
+
+msgid "Đăng ký trải nghiệm lẩu Nhật Bản"
+msgstr "Sign up for the Japanese hot pot experience"
+
+msgid "Số điện thoại"
+msgstr "Phone"
+
+msgid "Đăng ký ngay"
+msgstr "Register now"
+
+msgid "Điều kiện"
+msgstr "Conditions"
+
+msgid "Áp dụng đến ngày"
+msgstr "Applied until"
+
+msgid "Xem chi tiết"
+msgstr "View detail"

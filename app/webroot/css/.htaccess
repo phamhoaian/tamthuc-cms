@@ -1,0 +1,4 @@
+#<filesMatch ".(css)$">
+#	#2 days
+# 	Header set Cache-Control "max-age=604800, public"
+# </filesMatch>

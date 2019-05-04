@@ -1,0 +1,144 @@
+@font-face {
+    font-family: UTM_Avo;
+    src: url(../fonts/UTM_Avo.ttf);
+}
+@font-face {
+    font-family: UTM_AvoBold;
+    src: url(../fonts/UTM_AvoBold.ttf);
+}
+html {
+    color: #000000;
+    font-size: 16px;
+    font-family: UTM_Avo;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+	height: 100%;
+	font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+body {
+	-webkit-font-smoothing: antialiased;
+    background: #e7e1db;
+	margin: 0;
+	padding: 0;
+}	
+.page-header {
+    .page-title {
+        margin: 70px 0 10px;
+        background: url('../img/page-title-pattern.png') no-repeat center bottom;
+        background-size: contain;
+        padding-bottom: 20px;
+    }
+}
+.page-title {
+    font-size: 36px;
+    font-family: UTM_AvoBold;
+    color: #BE1E2D;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 70px 0 30px;
+    a {
+        text-decoration: none;
+        color: #BE1E2D;
+        &:hover {
+			color: #fff;
+			text-shadow:
+			-1px -1px 0 #BE1E2D,  
+			1px -1px 0 #BE1E2D,
+			-1px 1px 0 #BE1E2D,
+			1px 1px 0 #BE1E2D;
+		}
+    }
+}
+.view-more {
+    border-radius: 25px;
+    color: #fff;
+    background-color: #BE1E2D;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 5px 15px 6px;
+    font-size: 14px;
+    display: inline-block;
+    transition: 0.3s background-color cubic-bezier(0.075, 0.82, 0.165, 1);
+    &:hover {
+        background-color: rgba(190, 30, 45, 0.7);
+    }
+}
+.container {
+    padding: 0 15px;
+}
+.page-nav {
+    text-align: center;
+    ul {
+        margin: 0;
+        padding: 0;
+    }
+    .nav-item {
+        display: inline-block;
+        padding: 0 15px 5px;
+        border-left: 1px solid #000;
+        &:first-child {
+            border-left: none;
+        }
+        a {
+            text-decoration: none;
+            color: #000;
+            transition: color 0.3s;
+            font-family: UTM_AvoBold;
+        }
+        &:hover {
+            a {
+                color: #BE1E2D;
+            }
+        }
+    }
+    .nav-item.is-active {
+        a {
+            color: #BE1E2D;
+        }
+    }
+}
+.page-body {
+    margin-top: 50px;
+}
+.page-footer {
+    text-align: center;
+    color: #BE1E2D;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.pagination {
+    text-align: center;
+    margin: 0 0 20px;
+    padding: 0;
+    li {
+        display: inline-block;
+        margin: 0 10px;
+        > span {
+            display: block;
+            border: 1px solid #000;
+            border-radius: 100%;
+            width: 20px;
+            height: 20px;
+            line-height: 22px;
+            padding: 10px;
+            transition: 0.3s all;
+            &:hover {
+                color: #fff;
+                background-color: #BE1E2D;
+                a {
+                    color: #fff;
+                }
+            }
+        }
+        > span.current {
+            color: #fff;
+            background-color: #BE1E2D;
+        }
+        a {
+            text-decoration: none;
+            color: #15c;
+        }
+    }
+}
